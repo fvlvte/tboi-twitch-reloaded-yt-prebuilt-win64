@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frontend/precache-manifest.4ce77a8c9222084e1d07884db08170db.js"
+  "/frontend/precache-manifest.317bd571683d44b74c5b5e2e96089af1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "isaactwitchmod"});

@@ -1,46 +1,46 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca7fbafdba60841d4a81",
+    "revision": "45316d3887adcf023255",
     "url": "/frontend/css/app.0446f915.css"
   },
   {
-    "revision": "4fbaf6f989f58e8c835b",
+    "revision": "817571272465cad48b3e",
     "url": "/frontend/css/channels-screen.033c183a.css"
   },
   {
-    "revision": "ef123211d5b5f0496098",
+    "revision": "8b0d3747f55f850f9ca9",
     "url": "/frontend/css/chat-screen.7983ad13.css"
   },
   {
-    "revision": "7a441cd7815794149b48",
+    "revision": "fca9e857132bb6d72a82",
     "url": "/frontend/css/community-screen.8825139f.css"
   },
   {
-    "revision": "813c41b198b60e4d4245",
+    "revision": "00e4eef023d45e191022",
     "url": "/frontend/css/download-screen.f7b82e36.css"
   },
   {
-    "revision": "4d624562b3b993c6f76b",
+    "revision": "fada47d72a35d4462ae0",
     "url": "/frontend/css/game-screen.b67acb7c.css"
   },
   {
-    "revision": "d4f76c740348a03c74c2",
+    "revision": "6d8fed3f33bf1bb20592",
     "url": "/frontend/css/gamemode-screen.fdf9d514.css"
   },
   {
-    "revision": "ab8350768d54f9a08220",
+    "revision": "6cb62b13576107aa0783",
     "url": "/frontend/css/luadebug-screen.fabd053e.css"
   },
   {
-    "revision": "39577518d60004914f29",
+    "revision": "5add62fac7af1b69ee9a",
     "url": "/frontend/css/mobile-screen.ad2e66c5.css"
   },
   {
-    "revision": "68ea0da9864b7941b58b",
+    "revision": "2df3d56b865413107081",
     "url": "/frontend/css/settings-screen.d8f7390e.css"
   },
   {
-    "revision": "da3d3622293728096c64",
+    "revision": "17c98c4136ca0937fc67",
     "url": "/frontend/css/start-screen.f348fa00.css"
   },
   {
@@ -124,67 +124,67 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frontend/img/startImg.e1a010fb.png"
   },
   {
-    "revision": "f23b2932430d005d3a5ba04fbe49824e",
+    "revision": "0d81efc4ced19d546ea88f221767c054",
     "url": "/frontend/index.html"
   },
   {
-    "revision": "ca7fbafdba60841d4a81",
-    "url": "/frontend/js/app.07bbe0bd.js"
+    "revision": "45316d3887adcf023255",
+    "url": "/frontend/js/app.8dfc9a0d.js"
   },
   {
-    "revision": "4fbaf6f989f58e8c835b",
-    "url": "/frontend/js/channels-screen.0d09d8cf.js"
+    "revision": "817571272465cad48b3e",
+    "url": "/frontend/js/channels-screen.fd4a6504.js"
   },
   {
     "revision": "b089e858b91343dcf9bc",
     "url": "/frontend/js/channels-screen~chat-screen~community-screen~download-screen~game-screen~gamemode-screen~luadebug-sc~2a91c9d4.aea08d04.js"
   },
   {
-    "revision": "ef123211d5b5f0496098",
-    "url": "/frontend/js/chat-screen.490c64c1.js"
+    "revision": "8b0d3747f55f850f9ca9",
+    "url": "/frontend/js/chat-screen.41c3967d.js"
   },
   {
     "revision": "4aad8a943ebaa94c6fe0",
     "url": "/frontend/js/chunk-vendors.9ed5e1ab.js"
   },
   {
-    "revision": "7a441cd7815794149b48",
-    "url": "/frontend/js/community-screen.aa70e0a6.js"
+    "revision": "fca9e857132bb6d72a82",
+    "url": "/frontend/js/community-screen.4a89a848.js"
   },
   {
-    "revision": "813c41b198b60e4d4245",
-    "url": "/frontend/js/download-screen.e4e7b84b.js"
+    "revision": "00e4eef023d45e191022",
+    "url": "/frontend/js/download-screen.70a45147.js"
   },
   {
-    "revision": "4d624562b3b993c6f76b",
-    "url": "/frontend/js/game-screen.f03b8929.js"
+    "revision": "fada47d72a35d4462ae0",
+    "url": "/frontend/js/game-screen.4153b724.js"
   },
   {
-    "revision": "d4f76c740348a03c74c2",
-    "url": "/frontend/js/gamemode-screen.ce42992c.js"
+    "revision": "6d8fed3f33bf1bb20592",
+    "url": "/frontend/js/gamemode-screen.5352d5ad.js"
   },
   {
-    "revision": "ab8350768d54f9a08220",
-    "url": "/frontend/js/luadebug-screen.fce127a2.js"
+    "revision": "6cb62b13576107aa0783",
+    "url": "/frontend/js/luadebug-screen.8a3be685.js"
   },
   {
-    "revision": "39577518d60004914f29",
-    "url": "/frontend/js/mobile-screen.17d01a9e.js"
+    "revision": "5add62fac7af1b69ee9a",
+    "url": "/frontend/js/mobile-screen.32f23396.js"
   },
   {
-    "revision": "68ea0da9864b7941b58b",
-    "url": "/frontend/js/settings-screen.cf43ef02.js"
+    "revision": "2df3d56b865413107081",
+    "url": "/frontend/js/settings-screen.660c130b.js"
   },
   {
-    "revision": "da3d3622293728096c64",
-    "url": "/frontend/js/start-screen.893dbd0c.js"
+    "revision": "17c98c4136ca0937fc67",
+    "url": "/frontend/js/start-screen.3cde5b9a.js"
   },
   {
     "revision": "005c91ca68744668a7cc8a332285fcd7",
     "url": "/frontend/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/frontend/robots.txt"
   }
 ]);
